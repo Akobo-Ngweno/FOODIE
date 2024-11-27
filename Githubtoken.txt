@@ -1,0 +1,6 @@
+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 
+
+
+structure:
+git remote add origin
+git remote add origin https://github.com/Akobo-Ngweno/FOODIE.git
